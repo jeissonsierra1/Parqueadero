@@ -11,5 +11,5 @@ Este proyecto es una aplicación de consola para gestionar un parqueadero.
 
 1. Clonar el repositorio:  
    ```sh
-   git clone https://github.com/jeissonsierra1/Parqueadero.git
+   https://github.com/jeissonsierra1/Parqueadero.git
 ```  
