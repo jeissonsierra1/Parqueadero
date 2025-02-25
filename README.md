@@ -58,7 +58,7 @@ Para ejecutar el proyecto:
 - Compile todas las clases
 - Ejecute la clase principal Parqueadero()
   
-  Para ejecutar los tests unitarios:
+  # Para ejecutar los tests unitarios:
 - Asegúrese de tener JUnit 
 - Ejecute la clase Parqueadero1Test
 
@@ -69,7 +69,7 @@ Al iniciar el programa, se presenta un menú con 4 opciones:
 - Registrar salida de vehículo
 - Consultar estado del parqueadero
 - Salir
-- 
+  
 El usuario puede navegar por las diferentes funcionalidades siguiendo las instrucciones en pantalla.
 
 El proyecto implementa los principios fundamentales de la programación orientada a objetos:
