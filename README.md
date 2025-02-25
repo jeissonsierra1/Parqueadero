@@ -74,10 +74,10 @@ El usuario puede navegar por las diferentes funcionalidades siguiendo las instru
 
 El proyecto implementa los principios fundamentales de la programación orientada a objetos:
 
-- Encapsulamiento: Control del acceso a los datos a través de getters y setters
-- Herencia: Estructura jerárquica de vehículos
-- Abstracción: Definición clara de las responsabilidades de cada clase
-- Polimorfismo: Tratamiento unificado de diferentes tipos de vehículos
+- Encapsulamiento
+- Herencia
+- Abstracción
+- Polimorfismo
 
 
 1. Clonar el repositorio:  
